@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prometheus", "Prometheus\Prometheus.vcxproj", "{D86421D0-39DE-4AB2-BE5D-2FE08E8F30F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{A258D814-930D-4E40-B55D-06C26852FDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86421D0-39DE-4AB2-BE5D-2FE08E8F30F5}.Debug|x64.ActiveCfg = Debug|x64
+		{D86421D0-39DE-4AB2-BE5D-2FE08E8F30F5}.Debug|x64.Build.0 = Debug|x64
+		{D86421D0-39DE-4AB2-BE5D-2FE08E8F30F5}.Release|x64.ActiveCfg = Release|x64
+		{D86421D0-39DE-4AB2-BE5D-2FE08E8F30F5}.Release|x64.Build.0 = Release|x64
+		{A258D814-930D-4E40-B55D-06C26852FDBC}.Debug|x64.ActiveCfg = Debug|x64
+		{A258D814-930D-4E40-B55D-06C26852FDBC}.Debug|x64.Build.0 = Debug|x64
+		{A258D814-930D-4E40-B55D-06C26852FDBC}.Release|x64.ActiveCfg = Release|x64
+		{A258D814-930D-4E40-B55D-06C26852FDBC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFFBE308-62D9-42E1-ADE2-BAAC4F7E6272}
+	EndGlobalSection
+EndGlobal
